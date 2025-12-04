@@ -17,7 +17,7 @@
 ![Mobile Testing](https://img.shields.io/badge/Mobile%20Testing-orange?style=for-the-badge)
 ![Web App Testing](https://img.shields.io/badge/Web%20App%20Testing-blueviolet?style=for-the-badge)
 ![API Testing](https://img.shields.io/badge/API%20Testing-00ADD8?style=for-the-badge)
-![TestNG](https://img.shields.io/badge/TestNG-02303A?style=for-the-badge)
+![Test NG](https://img.shields.io/badge/Test%20NG-02303A?style=for-the-badge)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 
 # 📊 GitHub Stats:
